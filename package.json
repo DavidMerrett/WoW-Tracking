@@ -1,0 +1,14 @@
+{
+  "name": "wow-ai-companion-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "analyze": "node src/cli.js analyze",
+    "watch": "node src/cli.js watch",
+    "test": "node tests/run-tests.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
