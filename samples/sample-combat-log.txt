@@ -1,0 +1,8 @@
+5/1 20:10:00.000  ENCOUNTER_START,2567,"Example Dungeon Boss",8,5
+5/1 20:10:03.100  SPELL_CAST_SUCCESS,Creature-0-0-0-0-100-000000001,"Shadow Adept",0x10a48,0x0,Player-1-00000001,"Ari",0x511,0x0,400001,"Shadow Bolt Volley",0x20
+5/1 20:10:04.300  SPELL_DAMAGE,Creature-0-0-0-0-100-000000001,"Shadow Adept",0x10a48,0x0,Player-1-00000001,"Ari",0x511,0x0,400001,"Shadow Bolt Volley",0x20,184200,0,0,0,0,0,nil,nil,nil
+5/1 20:10:07.250  SPELL_INTERRUPT,Player-1-00000002,"Bren",0x511,0x0,Creature-0-0-0-0-101-000000002,"Mist Healer",0x10a48,0x0,2139,"Counterspell",0x40,400002,"Healing Wave",0x8
+5/1 20:10:09.000  SPELL_DAMAGE,Creature-0-0-0-0-102-000000003,"Stone Guard",0x10a48,0x0,Player-1-00000003,"Cato",0x511,0x0,400003,"Ground Eruption",0x1,232000,0,0,0,0,0,nil,nil,nil
+5/1 20:10:11.000  SPELL_DAMAGE,Creature-0-0-0-0-102-000000003,"Stone Guard",0x10a48,0x0,Player-1-00000003,"Cato",0x511,0x0,400003,"Ground Eruption",0x1,241000,0,0,0,0,0,nil,nil,nil
+5/1 20:10:12.100  UNIT_DIED,0000000000000000,nil,0x80000000,0x80000000,Player-1-00000003,"Cato",0x511,0x0
+5/1 20:10:33.000  ENCOUNTER_END,2567,"Example Dungeon Boss",8,5,0
